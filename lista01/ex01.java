@@ -1,7 +1,6 @@
 /*
  * Escreva um programa que imprime "Bem-vindo à disciplina de Estrutura de Dados!". Depois, modifique para pedir o nome do aluno e
  * imprimir "Bem-vindo, [nome]!".
- * 
  */
 
 
