@@ -15,8 +15,6 @@ public class ex04 {
         int[] vet = new int[3] ;
 
         int nMax = 0;
-
-        System.out.println(vet.length);
         
         for (int i = 0; i < vet.length; i++){
             System.out.print("Insira um numero: ");
