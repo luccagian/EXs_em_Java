@@ -18,9 +18,11 @@ Implemente em Java duas classes distintas:
   - Implemente um método navegarCircular(int passos) que percorre a lista a partir do elemento atual, indo para frente ou para trás (passos positivos ou negativos), imprimindo o conteúdo do nó a cada passo.
 
 Regras e Requisitos:
+
 • Você deve criar uma classe No<T> genérica, que seja usada nas duas listas.
 • O código deve ser modularizado, com tratamento de exceções e sem uso de bibliotecas prontas como LinkedList.
 • Crie uma classe Main para testar ambas as listas com exemplos reais de módulos como: "Introdução", "Algoritmos", "Estruturas de Dados", etc.
+
 
 
 Exemplo de uso de ListaDuplamenteEncadeada: 
