@@ -1,4 +1,4 @@
-#Java e POO – Classe Palindromo
+# Java e POO – Classe Palindromo
 
 Declare uma classe Java chamada Palindromo que possui um atributo privado chamado texto, do tipo String, e os seguintes métodos públicos:
  - Construtor sem parâmetro = Define que o atributo texto é uma string vazia ("").
